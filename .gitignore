@@ -10,3 +10,5 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 camera_test
+Debug/
+Release/
