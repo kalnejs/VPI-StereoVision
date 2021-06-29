@@ -23,3 +23,4 @@ add_library(camera SHARED camera/Camera.cpp)
 
 add_subdirectory(tests/single_camera_capture)
 add_subdirectory(tests/stereo_camera_capture)
+add_subdirectory(calibration)
